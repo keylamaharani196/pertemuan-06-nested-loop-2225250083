@@ -229,3 +229,7 @@ Di dalam nested loop terdapat proses menghitung `hasil = i * j`, menambahkan has
 Program Tugas 3 berhasil menerapkan nested loop untuk membuat tabel perkalian dari 1 sampai `n`. Program juga berhasil menghitung jumlah setiap baris, total seluruh hasil perkalian, dan banyak hasil perkalian yang genap.
 
 Berdasarkan pengujian `n = 1`, `n = 2`, dan `n = 3`, hasil program sesuai dengan hasil yang diharapkan. Nested loop menghasilkan tepat `n²` pasangan dan proses pencacahan hasil genap berjalan dengan benar.
+## Catatan Pengembangan
+
+Program telah diuji menggunakan beberapa nilai n untuk memastikan hasil tabel,
+total keseluruhan, dan pencacahan hasil genap berjalan sesuai algoritma.
