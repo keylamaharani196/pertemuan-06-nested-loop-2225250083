@@ -233,3 +233,4 @@ Berdasarkan pengujian `n = 1`, `n = 2`, dan `n = 3`, hasil program sesuai dengan
 
 Program telah diuji menggunakan beberapa nilai n untuk memastikan hasil tabel,
 total keseluruhan, dan pencacahan hasil genap berjalan sesuai algoritma.
+Pengumpulan dilakukan melalui GitHub.
